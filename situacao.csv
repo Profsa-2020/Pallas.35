@@ -1,0 +1,60 @@
+0;101;Nacional-Tributada pelo Simples Nacional com permissão de crédito;Nacional;Tributada pelo Simples Nacional com permissão de crédito
+0;102;Nacional Tributada pelo Simples Nacional sem permissão de crédito;Nacional;Tributada pelo Simples Nacional sem permissão de crédito
+0;103;Nacional-Isenção do ICMS no Simples Nacional para faixa de receita bruta;Nacional;Isenção do ICMS no Simples Nacional para faixa de receita bruta
+0;201;Nacional Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tri;Nacional;Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tri
+0;202;Nacional Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tri;Nacional;Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tri
+0;203;Nacional-Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária;Nacional;Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária
+0;300;Nacional-Imune;Nacional;Imune
+0;400;Nacional-Não tributada pelo Simples Nacional;Nacional;Não tributada pelo Simples Nacional
+0;500;Nacional-ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação;Nacional;ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação
+0;900;Nacional Outros;Nacional;Outros
+0;1101;Estrangeira - Importação direta-Tributada pelo Simples Nacional com permissão de crédito;Estrangeira - Importação direta;Tributada pelo Simples Nacional com permissão de crédito
+0;1102;Estrangeira - Importação direta-Tributada pelo Simples Nacional sem permissão de crédito;Estrangeira - Importação direta;Tributada pelo Simples Nacional sem permissão de crédito
+0;1103;Estrangeira - Importação direta-Isenção do ICMS no Simples Nacional para faixa de receita bruta;Estrangeira - Importação direta;Isenção do ICMS no Simples Nacional para faixa de receita bruta
+0;1201;Estrangeira - Importação direta-Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária;Estrangeira - Importação direta;Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária
+0;1202;Estrangeira - Importação direta-Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária;Estrangeira - Importação direta;Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária
+0;1203;Estrangeira - Importação direta-Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária;Estrangeira - Importação direta;Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária
+0;1300;Estrangeira - Importação direta-Imune;Estrangeira - Importação direta;Imune
+0;1400;Estrangeira - Importação direta-Não tributada pelo Simples Nacional;Estrangeira - Importação direta;Não tributada pelo Simples Nacional
+0;1500;Estrangeira - Importação direta-ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação;Estrangeira - Importação direta;ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação
+0;1900;Estrangeira - Importação direta-Outros;Estrangeira - Importação direta;Outros
+0;2101;Estrangeira - Adquirida no mercado interno-Tributada pelo Simples Nacional com permissão de crédito;Estrangeira - Adquirida no mercado interno;Tributada pelo Simples Nacional com permissão de crédito
+0;2102;Estrangeira - Adquirida no mercado interno-Tributada pelo Simples Nacional sem permissão de crédito;Estrangeira - Adquirida no mercado interno;Tributada pelo Simples Nacional sem permissão de crédito
+0;2103;Estrangeira - Adquirida no mercado interno-Isenção do ICMS no Simples Nacional para faixa de receita bruta;Estrangeira - Adquirida no mercado interno;Isenção do ICMS no Simples Nacional para faixa de receita bruta
+0;2201;Estrangeira - Adquirida no mercado interno-Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária;Estrangeira - Adquirida no mercado interno;Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária
+0;2202;Estrangeira - Adquirida no mercado interno-Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária;Estrangeira - Adquirida no mercado interno;Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária
+0;2300;Estrangeira - Adquirida no mercado interno-Imune;Estrangeira - Adquirida no mercado interno;Estrangeira - Adquirida no mercado interno
+0;2400;Estrangeira - Adquirida no mercado interno-Não tributada pelo Simples Nacional;Estrangeira - Adquirida no mercado interno;Estrangeira - Adquirida no mercado interno
+0;2500;Estrangeira - Adquirida no mercado interno-ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação;Estrangeira - Importação direta;ICMS cobrado anteriormente por substituição tributária (substituído) ou por antecipação
+0;2900;Estrangeira - Adquirida no mercado interno-Outros;Estrangeira - Importação direta;Outros
+2;0;PRODUTO NACIONAL Tributada Integralmente;PRODUTO NACIONAL;PRODUTO NACIONAL
+2;10;PRODUTO NACIONAL Tributada com cobrança de Icms por S.T.;PRODUTO NACIONAL;PRODUTO NACIONAL
+2;20;PRODUTO NACIONAL Com redução na base de calculo do Icms;PRODUTO NACIONAL;PRODUTO NACIONAL
+2;30;PRODUTO NACIONAL Isenta, não tributada e cobrança de Imcs por S.T.;PRODUTO NACIONAL;Isenta, não tributada e cobrança de Imcs por S.T.
+2;40;PRODUTO NACIONAL Isenta do Icms;PRODUTO NACIONAL;Isenta do Icms
+2;41;PRODUTO NACIONAL Não tributada pelo Icms;PRODUTO NACIONAL;Não tributada pelo Icms
+2;50;PRODUTO NACIONAL Com suspenção de Icms;PRODUTO NACIONAL;Com suspenção de Icms
+2;51;PRODUTO NACIONAL Diferimento de Icms;PRODUTO NACIONAL;Diferimento de Icms
+2;60;PRODUTO NACIONAL Icms cobrado anteriormente por S.T.;PRODUTO NACIONAL;Icms cobrado anteriormente por S.T.
+2;70;PRODUTO NACIONAL Com redução na base de calculo e cobrança de Icms;PRODUTO NACIONAL;Com redução na base de calculo e cobrança de Icms
+2;90;PRODUTO NACIONAL Outras (somente usar quando não previsto pelos ant;PRODUTO NACIONAL;Outras (somente usar quando não previsto pelos ant
+2;100;PROD. ESTRANGEIRO-IMPOR DIRETA Tributada Integralmente;PROD. ESTRANGEIRO-IMPOR DIRETA;Tributada Integralmente
+2;110;PROD. ESTRANGEIRO-IMPOR DIRETA Tributada com cobrança de Icms por S.T.;PROD. ESTRANGEIRO-IMPOR DIRETA;Tributada com cobrança de Icms por S.T.
+2;120;PROD. ESTRANGEIRO-IMPOR DIRETA Com redução na base de calculo do Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Com redução na base de calculo do Icms
+2;130;PROD. ESTRANGEIRO-IMPOR DIRETA Isenta, não tributada e cobrança de Imcs por S.T.;PROD. ESTRANGEIRO-IMPOR DIRETA;Isenta, não tributada e cobrança de Imcs por S.T.
+2;140;PROD. ESTRANGEIRO-IMPOR DIRETA Isenta do Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Isenta do Icms
+2;141;PROD. ESTRANGEIRO-IMPOR DIRETA Não tributada pelo Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Não tributada pelo Icms
+2;150;PROD. ESTRANGEIRO-IMPOR DIRETA Com suspenção de Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Com suspenção de Icms
+2;151;PROD. ESTRANGEIRO-IMPOR DIRETA Diferimento de Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Diferimento de Icms
+2;160;PROD. ESTRANGEIRO-IMPOR DIRETA Icms cobrado anteriormente por S.T.;PROD. ESTRANGEIRO-IMPOR DIRETA;Icms cobrado anteriormente por S.T.
+2;170;PROD. ESTRANGEIRO-IMPOR DIRETA Com redução na base de calculo e cobrança de Icms;PROD. ESTRANGEIRO-IMPOR DIRETA;Com redução na base de calculo e cobrança de Icms
+2;190;PROD. ESTRANGEIRO-IMPOR DIRETA Outras (somente usar quando não previsto pelos ant;PROD. ESTRANGEIRO-IMPOR DIRETA;Outras (somente usar quando não previsto pelos ant
+2;200;ESTRANGEIRO-ADQU MERC INTERNO Tributada Integralmente;ESTRANGEIRO-ADQU MERC INTERNO;Tributada Integralmente
+2;210;ESTRANGEIRO-ADQU MERC INTERNO Tributada com cobrança de Icms por S.T.;ESTRANGEIRO-ADQU MERC INTERNO;Tributada com cobrança de Icms por S.T.
+2;220;ESTRANGEIRO-ADQU MERC INTERNO Com redução na base de calculo do Icms;ESTRANGEIRO-ADQU MERC INTERNO;Com redução na base de calculo do Icms
+2;230;ESTRANGEIRO-ADQU MERC INTERNO Isenta, não tributada e cobrança de Imcs por S.T.;ESTRANGEIRO-ADQU MERC INTERNO;Isenta, não tributada e cobrança de Imcs por S.T.
+2;240;ESTRANGEIRO-ADQU MERC INTERNO Isenta do Icms;ESTRANGEIRO-ADQU MERC INTERNO;Isenta do Icms
+2;241;ESTRANGEIRO-ADQU MERC INTERNO Não tributada pelo Icms;ESTRANGEIRO-ADQU MERC INTERNO;Não tributada pelo Icms
+2;250;ESTRANGEIRO-ADQU MERC INTERNO Com suspenção de Icms;ESTRANGEIRO-ADQU MERC INTERNO;Com suspenção de Icms
+2;251;ESTRANGEIRO-ADQU MERC INTERNO DIFERIMENTO DE I.C.M.S.;ESTRANGEIRO-ADQU MERC INTERNO;DIFERIMENTO DE I.C.M.S.
+2;260;ESTRANGEIRO-ADQU MERC INTERNO Icms cobrado anteriormente por S.T.;PROD. ESTRANGEIRO-IMPOR DIRETA;Icms cobrado anteriormente por S.T.
